@@ -1,0 +1,22 @@
+- identifier: some_identifier
+  title: Some Title
+  team: []
+  icon: DefaultBlueprint
+  blueprint: grafanaAlert
+  properties:
+    status: firing
+    labels:
+      a: 1
+      b: 2
+    description: string
+    createdAt: '2024-06-17T19:56:19.062Z'
+    resolvedAt: '2024-06-17T19:56:19.062Z'
+    values:
+      a: 1
+      b: 2
+    generatorURL: https://example.com
+    fingerprint: string
+    silenceURL: https://example.com
+    summary: string
+    runbookURL: https://example.com
+  relations: {}
